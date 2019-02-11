@@ -2,9 +2,7 @@
 #include<conio.h>
 void main()
 {
-int a;
-printf("\n enter the number");
-scanf("%d",&a);
+int a=3;
 if(a>0)
 {
 printf("\n the number is positive");
